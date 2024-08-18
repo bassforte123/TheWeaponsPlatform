@@ -1,0 +1,11 @@
+{
+	"name": "TheWeaponsPlatform",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/bassforte123/TheWeaponsPlatform",
+	"description": "Adds Guns and Items to the Gungeon.",
+	"dependencies": [
+		"BepInEx-BepInExPack_EtG-5.4.2101",
+		"MtG_API-Mod_the_Gungeon_API-1.8.2",
+		"Alexandria-Alexandria-0.4.9",
+	]
+}

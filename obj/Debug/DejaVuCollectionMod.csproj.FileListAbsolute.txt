@@ -1,0 +1,409 @@
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\DejaVault.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\DejaVault.pdb
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\0Harmony.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Alexandria.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Assembly-CSharp.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\BepInEx.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Gunfig.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Ionic.Zip.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\ModTheGungeonAPI.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Mono.Cecil.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\MonoMod.Utils.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\PlayMaker.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UI.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.WebModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\0Harmony.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Alexandria.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\ModTheGungeonAPI.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\MonoMod.Utils.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.WebModule.xml
+C:\Users\Louis\source\repos\DejaVault\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Louis\source\repos\DejaVault\obj\Debug\DejaVuCollectionMod.csproj.AssemblyReference.cache
+C:\Users\Louis\source\repos\DejaVault\obj\Debug\DejaVuCollectionMod.csproj.CoreCompileInputs.cache
+C:\Users\Louis\source\repos\DejaVault\obj\Debug\DejaVuCollectionMod.csproj.CopyComplete
+C:\Users\Louis\source\repos\DejaVault\obj\Debug\DejaVault.dll
+C:\Users\Louis\source\repos\DejaVault\obj\Debug\DejaVault.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\DejaVault.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\DejaVault.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\0Harmony.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Alexandria.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Assembly-CSharp.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\BepInEx.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Gunfig.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Ionic.Zip.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\ModTheGungeonAPI.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Mono.Cecil.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Utils.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\PlayMaker.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UI.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.WebModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\0Harmony.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Alexandria.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\ModTheGungeonAPI.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Utils.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.WebModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Louis\source\repos\DejaVuCollection\obj\Debug\DejaVuCollectionMod.csproj.AssemblyReference.cache
+C:\Users\Louis\source\repos\DejaVuCollection\obj\Debug\DejaVuCollectionMod.csproj.CoreCompileInputs.cache
+C:\Users\Louis\source\repos\DejaVuCollection\obj\Debug\DejaVuCollectionMod.csproj.CopyComplete
+C:\Users\Louis\source\repos\DejaVuCollection\obj\Debug\DejaVault.dll
+C:\Users\Louis\source\repos\DejaVuCollection\obj\Debug\DejaVault.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Backports.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Core.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Iced.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.ILHelpers.dll
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\0Harmony.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Backports.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Backports.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Core.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Core.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Iced.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Iced.xml
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.ILHelpers.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.RuntimeDetour.pdb
+C:\Users\Louis\source\repos\DejaVuCollection\bin\Debug\MonoMod.Utils.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\DejaVault.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\DejaVault.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\0Harmony.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Alexandria.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Assembly-CSharp.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\BepInEx.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Gunfig.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Ionic.Zip.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\ModTheGungeonAPI.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Mono.Cecil.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Backports.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Core.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Iced.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.ILHelpers.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Utils.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\PlayMaker.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UI.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.WebModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\0Harmony.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\0Harmony.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Alexandria.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\ModTheGungeonAPI.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Backports.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Backports.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Core.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Core.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Iced.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Iced.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.ILHelpers.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.RuntimeDetour.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Utils.pdb
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\MonoMod.Utils.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.WebModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Louis\source\repos\Template Mod - Copy\obj\Debug\DejaVuCollectionMod.csproj.AssemblyReference.cache
+C:\Users\Louis\source\repos\Template Mod - Copy\obj\Debug\DejaVuCollectionMod.csproj.CoreCompileInputs.cache
+C:\Users\Louis\source\repos\Template Mod - Copy\obj\Debug\DejaVuCollectionMod.csproj.CopyComplete
+C:\Users\Louis\source\repos\Template Mod - Copy\obj\Debug\DejaVault.dll
+C:\Users\Louis\source\repos\Template Mod - Copy\obj\Debug\DejaVault.pdb
