@@ -112,6 +112,11 @@ namespace TheWeaponsPlatform
              * Full list of IDs and names can be found here https://raw.githubusercontent.com/ModTheGungeon/ETGMod/master/Assembly-CSharp.Base.mm/Content/gungeon_id_map/items.txt
              * List of visual effects https://enterthegungeon.wiki.gg/wiki/Weapon_Visual_Effects */
             Projectile projectile = UnityEngine.Object.Instantiate<Projectile>((PickupObjectDatabase.GetById(56) as Gun).DefaultModule.projectiles[0]);
+            /* If you want to use a charged projectile from a gun with multiple stages of shots, use a format like the below */
+            //Projectile projectile = UnityEngine.Object.Instantiate<Projectile>((PickupObjectDatabase.GetById(613) as Gun).singleModule.chargeProjectiles[1].Projectile);
+            /* The following line can be used to output the full details of the properties of a given gun or projectile for if you'd like to replicated certain aspects.
+             * This example takes the projectile we just set up then outputs the details to your game folder under Enter the Gungeon\Resources\defaultLog.txt */
+            //Alexandria.Misc.DebugUtility.LogPropertiesAndFields<Projectile>(projectile, $"Projectile Properties and Fields: ");
             gun.DefaultModule.projectiles[0] = projectile; //Assigns the projectile to the gun.
             /* Adjust Impact Visuals */
             //projectile.hitEffects.alwaysUseMidair = true;  //Use end of range visual if it hits something
