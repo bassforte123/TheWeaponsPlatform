@@ -15,7 +15,7 @@ This is a framework designed to make the process of creating and testing new ite
 - Save this repository to your Visual Studio repos folder.
 - You can launch the project from the TheWeaponsPlatform.sln.
 - Move the "TheWeaponsPlatform" folder to your BepInEx/plugins folder so that the mod loads with your thunderstore launcher despite not being installed through it.  Remember that since you're not updating through the thunderstore launcher, you'll need to manually transfer in any newly built dlls to this folder along with any relavant sprite updates.
-- The autostart dll is here too so that function can be disabled either by removing the dll or by toggling it off in the Mod Config menu ingame.
+- The autostart dll is here too so that function can be disabled by removing the dll.
 
 # Credits
 Special thanks to the Mod the Gungeon Discord for helping to put this template together.
